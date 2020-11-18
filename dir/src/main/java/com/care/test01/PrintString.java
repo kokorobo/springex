@@ -1,0 +1,8 @@
+package com.care.test01;
+
+public class PrintString {
+	public void printString(String print ,String age) {
+		System.out.println("이름 => " + print);
+		System.out.println("나이 => "+ age);
+	}
+}

@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\user\Desktop\hm\neweclips\newwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\848895598.index
+\dir\src\main\java
+C:\Users\user\Desktop\hm\neweclips\newwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\320085236.index
+\dir\src\main\java
+C:\Users\user\Desktop\hm\neweclips\newwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2946552992.index
+\dir\src\main\java
+C:\Users\user\Desktop\hm\neweclips\newwork\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2319085538.index
+\dir\src\main\java
